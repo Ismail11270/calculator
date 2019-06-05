@@ -1,0 +1,21 @@
+﻿  RPN.cpp
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(462): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\rpn.cpp(470): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Evaluator.cpp
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\evaluator.cpp(24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  Calculator.cpp
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\calculator.cpp(93): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\calculator.cpp(122): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\calculator.cpp(126): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\calculator.cpp(130): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\calculator.cpp(578): warning C4018: '<': signed/unsigned mismatch
+c:\users\adam\desktop\calculator final v3\calculatorfinal\calculatorfinal\calculator.cpp(625): warning C4018: '<': signed/unsigned mismatch
+  button.cpp
+  Generating Code...
+Debug\button.obj : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
